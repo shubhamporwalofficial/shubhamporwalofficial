@@ -29,3 +29,7 @@ I am passionate about teaching and sharing my knowledge with others. This passio
 ## Languages 🌍
 - English
 - Hindi
+
+## Get in Touch 📞
+- **LinkedIn:** [Shubham Porwal](https://www.linkedin.com/in/shubham-porwal)
+- **Email:** shubhamporwal1823@gmail.com
